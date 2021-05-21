@@ -1,0 +1,7 @@
+com\crudspring\entity\Producto.class
+com\crudspring\dto\ProductoDto.class
+com\crudspring\controller\ProductoController.class
+com\crudspring\CrudApplication.class
+com\crudspring\repository\ProductoRepository.class
+com\crudspring\service\ProductoService.class
+com\crudspring\dto\Mensaje.class
